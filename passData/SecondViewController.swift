@@ -34,5 +34,7 @@ class SecondViewController: UIViewController {
         // Pass the selected object to the new view controller.
     }
     */
+    
+    // Added a comment to check git abilities
 
 }
